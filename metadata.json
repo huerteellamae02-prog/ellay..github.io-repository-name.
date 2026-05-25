@@ -1,0 +1,6 @@
+{
+  "name": "Mind The Blank",
+  "description": "A refined trivia game with 150 questions across Easy, Medium, and Hard difficulties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
